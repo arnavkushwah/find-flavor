@@ -3,11 +3,11 @@
 https://www.find-flavor.com/
 
 ### Images
-<img width="1726" alt="Screenshot 2024-04-12 at 11 33 01 PM" src="https://github.com/ShivKushwah/food-recommender/assets/13080000/4132eeb1-3fa6-444a-8fbc-19289a6d3fa9">
-<img width="688" alt="Screenshot 2024-04-12 at 11 34 56 PM" src="https://github.com/ShivKushwah/food-recommender/assets/13080000/99559130-969c-4ba7-b358-7e2c1f419321">
-<img width="628" alt="Screenshot 2024-04-12 at 11 35 06 PM" src="https://github.com/ShivKushwah/food-recommender/assets/13080000/fd79c87f-41bf-428a-a1d1-ebaafda4ee49">
-<img width="713" alt="Screenshot 2024-04-12 at 11 35 14 PM" src="https://github.com/ShivKushwah/food-recommender/assets/13080000/a3a63ca3-5903-479b-b0b1-be40fb948948">
-<img width="670" alt="Screenshot 2024-04-12 at 11 35 28 PM" src="https://github.com/ShivKushwah/food-recommender/assets/13080000/21c7c96d-382c-45cc-ad1e-3ca4a0e538d2">
+<img width="1726" alt="Screenshot 2024-04-12 at 11 33 01 PM" src="https://github.com/arnavkushwah/find-flavor/blob/main/images/img1.png">
+<img width="688" alt="Screenshot 2024-04-12 at 11 34 56 PM" src="https://github.com/arnavkushwah/find-flavor/blob/main/images/img2.png">
+<img width="628" alt="Screenshot 2024-04-12 at 11 35 06 PM" src="https://github.com/arnavkushwah/find-flavor/blob/main/images/img3.png">
+<img width="713" alt="Screenshot 2024-04-12 at 11 35 14 PM" src="https://github.com/arnavkushwah/find-flavor/blob/main/images/img4.png">
+<img width="670" alt="Screenshot 2024-04-12 at 11 35 28 PM" src="https://github.com/arnavkushwah/find-flavor/blob/main/images/img5.png">
 
 ### React App
 To run the React app,
@@ -19,7 +19,7 @@ $ npm start
 ```
 
 ### Deploying Client
-Vercel Deployment - https://vercel.com/shivkushwahs-projects/flavor-finder-ai -> 
+Vercel Deployment - https://vercel.com/arnavkushwahs-projects/flavor-finder-ai -> 
 To setup, do:
 - Set Framework Preset to "create-react-app"
 - Set "install command" to `npm install --legacy-peer-deps`
